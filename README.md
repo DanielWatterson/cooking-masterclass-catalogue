@@ -1,6 +1,6 @@
 # 🍳 Cooking Masterclass Catalogue
 
-A simple Vue.js catalogue of cooking workshops. Browse courses, see availability, and save favorites to your wishlist.  
+This is my simple cooking courses catalogue using Vue. 
 
 ---
 
