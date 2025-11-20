@@ -10,7 +10,7 @@
     <!-- TEXT -->
     <h2 class="title">{{ course.title }}</h2>
     <p class="chef">By {{ course.chef }}</p>
-    <p class="price">R{{ course.price }}</p>
+    <p class="price">{{ course.price }}</p>
     <p class="level" :class="course.level.toLowerCase()">
       {{ course.level }}
     </p>

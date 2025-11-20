@@ -63,7 +63,7 @@ export default {
       courses: [
         {
           title: "Knife Skills",
-          chef: "Chef Anna",
+          chef: "Chef Anna Martinez",
           price: "R250",
           level: "Beginner",
           available: true,
@@ -71,7 +71,7 @@ export default {
         },
         {
           title: "Sauces & Seasoning",
-          chef: "Chef Ben",
+          chef: "Chef Ben Fogel",
           price: "R300",
           level: "Intermediate",
           available: false,
@@ -79,7 +79,7 @@ export default {
         },
         {
           title: "Signature Dish",
-          chef: "Chef Carla",
+          chef: "Chef Carla Garcia",
           price: "R400",
           level: "Advanced",
           available: true,
@@ -87,7 +87,7 @@ export default {
         },
         {
           title: "Bread Making",
-          chef: "Chef David",
+          chef: "Chef David Parker",
           price: "R200",
           level: "Beginner",
           available: true,
@@ -95,7 +95,7 @@ export default {
         },
         {
           title: "Cakes & Muffins",
-          chef: "Chef Eva",
+          chef: "Chef Eva Von Der Heide",
           price: "R220",
           level: "Beginner",
           available: false,
@@ -103,7 +103,7 @@ export default {
         },
         {
           title: "Decorating",
-          chef: "Chef Fiona",
+          chef: "Chef Fiona Gallagherx  ",
           price: "R250",
           level: "Intermediate",
           available: true,
