@@ -63,7 +63,7 @@ export default {
       courses: [
         {
           title: "Knife Skills",
-          chef: "Chef Anna Martinez",
+          chef: "Chef Thor Ulrikson",
           price: "R250",
           level: "Beginner",
           available: true,
@@ -103,7 +103,7 @@ export default {
         },
         {
           title: "Decorating",
-          chef: "Chef Fiona Gallagherx  ",
+          chef: "Chef Fiona Gallagher",
           price: "R250",
           level: "Intermediate",
           available: true,
